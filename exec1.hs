@@ -11,6 +11,6 @@ result2 = double 4
 
 main :: IO ()
 main = do
-    print result1  
-    print result2  
+    print result1  --basicamente o resultado vai ser 8 
+    print result2  -- aqui também dará 8 com a subistituição direta
 
